@@ -2,9 +2,6 @@
 
 # 🎮 WELCOME TO MY CODE PLAYGROUND
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,6,14,2&height=200&section=header&text=alissa's%20github&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35"/>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=500&color=FF00FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=120&lines=backend+engineer+🚀;performance+optimizer+⚡;ai+tinkerer+🤖;professional+debugger+🐛;coffee+enthusiast+☕)](https://git.io/typing-svg)
 
 </div>
 

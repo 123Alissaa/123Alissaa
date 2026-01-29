@@ -1,155 +1,243 @@
-# Hi there, I'm Alissa! 👋
+# Hey! I'm Alissa 👋✨
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=CS+Student+%40+USF;Backend+Engineer;AI+%26+LLM+Enthusiast;Building+Scalable+Systems)](https://git.io/typing-svg)
-  
-  🎓 Computer Science @ University of South Florida | 📍 Tampa, FL | 🎯 GPA: 3.78/4.0
-  
-</div>
-
----
-
-## 🚀 About Me
-
-- 🔭 Currently working on **AI-powered backend systems** at RARE Lab
-- 🌱 Learning **LLMs, distributed systems, and performance optimization**
-- 💡 Built systems with **99.8% uptime** and **sub-50ms latency**
-- 🎯 Reduced API failures from **20% → 3%** through systematic debugging
-- 👯 Open to **Summer 2026 SWE internships**
-- ⚡ Fun fact: Grew a student organization from **60 → 200 members** with Python automation!
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### Backend & Frameworks
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-
-### Databases & Cloud
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-### AI & Tools
-![OpenAI](https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF6EC7&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Building+cool+stuff+with+code+%F0%9F%9A%80;Breaking+things%2C+then+fixing+them+%F0%9F%94%A7;Turning+coffee+into+code+%E2%98%95)](https://git.io/typing-svg)
 
 </div>
 
----
-
-## 🔥 Featured Projects
-
-<div align="center">
-
-### 🎨 [CollabPad - Real-Time Collaborative Editor](https://github.com/123Alissaa/collabpad)
-**FastAPI • WebSockets • PostgreSQL • Next.js**
-- ⚡ **Sub-50ms** keystroke latency with **25+ concurrent users**
-- 🎯 **99.2%** automatic conflict resolution
-- 📊 **3,500+ messages/minute** throughput
-- 🚀 **73% query optimization** (45ms → 12ms)
-
-### 🤖 [AI Interview Coach](https://github.com/123Alissaa/ai-interview-coach)
-**Python • Ollama (Mistral 7B) • Streamlit**
-- 🧠 Integrated **locally-hosted LLM** (Mistral 7B)
-- ⚡ **40% latency reduction** via async processing
-- 🎯 Reduced hallucinations **from 30% to <5%**
-- 📈 Real-time performance monitoring dashboard
-
-### 🛒 [Distributed E-Commerce Platform](https://github.com/123Alissaa/ecommerce-platform)
-**TypeScript • Node.js • GraphQL • PostgreSQL**
-- 🏗️ Microservices architecture for **100+ concurrent users**
-- 💳 ACID-compliant transactions with race condition prevention
-- ⚡ **68% performance improvement** (1.2s → 380ms)
-- ✅ **85% test coverage** with CI/CD pipeline
-
-</div>
-
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-
-| 💼 Experience | 📈 Impact | 🎯 Optimization |
-|--------------|-----------|----------------|
-| Backend Software Engineer @ RARE Lab | Grew org from 60 → 200 members | 73% query speedup |
-| VP @ Bridges International | 99.8% system uptime | 68% endpoint optimization |
-| Instructor @ Girls Who Code | 90% automation improvement | 40% latency reduction |
-
-</div>
-
----
-
-## 📫 Let's Connect!
-
-<div align="center">
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alissaannjosy)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alissaannjosy@gmail.com)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yourportfolio.com)
-  
-  📧 alissaannjosy@gmail.com | 📱 (863) 329-1719
-  
-  💼 **Open to Summer 2026 Software Engineering Internships!**
-
-</div>
-
----
-
-## 💡 What I'm Great At
-
-```python
-class Alissa:
-    def __init__(self):
-        self.role = "Backend Software Engineer"
-        self.education = "CS @ University of South Florida (3.78 GPA)"
-        self.graduation = "May 2027"
-        
-    def specialties(self):
-        return {
-            "low_latency": ["sub-50ms systems", "real-time WebSockets", "async processing"],
-            "optimization": ["73% query speedup", "68% endpoint speedup", "40% latency reduction"],
-            "ai_ml": ["LLM integration (Gemini, Mistral)", "prompt engineering", "model evaluation"],
-            "reliability": ["99.8% uptime", "race condition debugging", "20% → 3% failure rate"],
-            "leadership": ["200+ member organization", "90% automation improvement", "cross-functional teams"]
-        }
-    
-    def currently_learning(self):
-        return ["Distributed Systems", "LLM Applications", "System Design at Scale"]
-    
-    def looking_for(self):
-        return "Summer 2026 SWE Internships in Backend/Full-Stack/AI"
+```ascii
+     ___       ___       ___       ___       ___       ___   
+    /\  \     /\__\     /\  \     /\  \     /\  \     /\  \  
+   /::\  \   /:/ _/_   /::\  \   /::\  \   /::\  \   /::\  \ 
+  /::\:\__\ /:/_/\__\ /:/\:\__\ /:/\:\__\ /::\:\__\ /::\:\__\
+  \/\::/  / \:\/:/  / \:\/:/  / \:\/:/  / \/\::/  / \/\::/  /
+    /:/  /   \::/  /   \::/  /   \::/  /    /:/  /    /:/  / 
+    \/__/     \/__/     \/__/     \/__/     \/__/     \/__/  
+                                                              
+    🎓 CS @ USF | 📍 Tampa | ⚡ Building systems that don't crash (usually)
 ```
 
 ---
 
+## 🎮 Current Status
+
+```javascript
+const alissa = {
+    location: "Tampa, FL 🌴",
+    education: "Computer Science @ USF",
+    year: "Junior (Class of 2027)",
+    gpa: "3.78/4.0 (yes, I actually study sometimes 📚)",
+    
+    currentlyDoing: [
+        "Building AI-powered robots that recommend recipes 🤖🍳",
+        "Making databases go brrrr (73% faster!) ⚡",
+        "Debugging race conditions at 2am 🐛🌙",
+        "Teaching high schoolers that coding is cool 👩‍🏫"
+    ],
+    
+    lookingFor: "Summer 2026 internships where I can break—I mean, build things 🛠️",
+    
+    funFact: "Grew a student org from 60 to 200 people by writing a Python script. " +
+             "Because why do manual work when you can automate it? 🤖"
+};
+```
+
+---
+
+## 🛠️ My Toolbox (aka things I break stuff with)
+
+<details>
+<summary>🔥 Click to see what I'm working with!</summary>
+
+### Languages I Actually Use
+```python
+skills = {
+    "confident_with": ["Python 🐍", "JavaScript/TypeScript 📜", "Java ☕"],
+    "can_fumble_through": ["C/C++ 💀", "SQL 🗄️", "HTML/CSS 🎨"],
+    "learning_next": ["Rust 🦀 (because why not suffer)", "Go 🐹"]
+}
+```
+
+### Tech Stack
+<div align="center">
+
+| Backend Magic ✨ | Databases 🗄️ | DevOps Stuff 🚀 | AI/ML 🤖 |
+|:---:|:---:|:---:|:---:|
+| FastAPI | PostgreSQL | Docker | Google Gemini |
+| Node.js | MongoDB | Git/GitHub | Mistral LLM |
+| Flask | Redis | Linux | Prompt Engineering |
+| Express | SQL Queries | CI/CD | "Please work" |
+
+</div>
+
+</details>
+
+---
+
+## 🎯 Cool Stuff I've Built
+
+<div align="center">
+
+### 💬 CollabPad - When Google Docs is Too Mainstream
+*Real-time code editor that actually works*
+
+```
+⚡ Sub-50ms latency (faster than your WiFi)
+👥 25+ people can code together without chaos
+🎯 99.2% conflict resolution (better than most relationships)
+📊 Handles 3,500+ messages/min (I load tested it at 3am)
+🚀 73% faster database queries (I'm slightly obsessed with speed)
+```
+**Stack:** FastAPI, WebSockets, PostgreSQL, Next.js  
+[📂 Check it out](https://github.com/123Alissaa/collabpad)
+
+---
+
+### 🤖 AI Interview Coach - Your AI Hype Person
+*Because practicing interviews alone is awkward*
+
+```
+🧠 Local LLM (Mistral 7B) - no cloud, no judgment
+⚡ 40% faster than my first attempt (optimization is my love language)
+🎯 Reduced AI hallucinations from 30% to <5% (yes, I fact-check robots)
+📈 Real-time dashboard because I like watching numbers go up
+```
+**Stack:** Python, Ollama, Streamlit, Plotly  
+[📂 See the code](https://github.com/123Alissaa/ai-interview-coach)
+
+---
+
+### 🛒 Distributed E-Commerce Thing
+*Proof I can build systems that handle money*
+
+```
+💳 ACID transactions (no double-charging, you're welcome)
+⚡ 68% faster checkout (1.2s → 380ms, I timed it)
+🏗️ Microservices architecture (because monoliths are so 2015)
+✅ 85% test coverage (I actually write tests, shocking I know)
+```
+**Stack:** TypeScript, Node.js, GraphQL, PostgreSQL  
+[📂 Browse the repo](https://github.com/123Alissaa/ecommerce-platform)
+
+</div>
+
+---
+
+## 📊 GitHub Stats (I promise I'm active)
+
 <div align="center">
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=123Alissaa&color=blueviolet&style=for-the-badge)
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=123Alissaa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=FF6EC7&icon_color=00D9FF&text_color=c9d1d9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=123Alissaa&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=FF6EC7&text_color=c9d1d9"/>
+
+</div>
+
+<div align="center">
   
-  ### ⭐ If you find my projects interesting, consider giving them a star!
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=123Alissaa&theme=tokyonight&hide_border=true&background=0D1117&ring=FF6EC7&fire=00D9FF&currStreakLabel=FF6EC7)
+
+  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=123Alissaa&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=FF6EC7&line=00D9FF&point=c9d1d9&area=true)
+
+</div>
+
+---
+
+## 🏆 Flex Zone
+
+<div align="center">
+
+| 💪 Achievement | 🎯 Impact | 🤯 How? |
+|:---|:---:|---:|
+| Built production AI system | 200+ users, 150+ AI recipes | Lots of coffee & debugging |
+| Optimized queries | 73% faster (45ms → 12ms) | Indexes are magic |
+| Scaled student org | 60 → 200 members | Python automation go brrr |
+| System uptime | 99.8% | Fixed race conditions at 2am |
+| API reliability | 20% failures → 3% | Structured error handling FTW |
+| Teaching impact | 40 students, 60% attendance ↑ | Made coding fun (apparently) |
+
+</div>
+
+---
+
+## 🎨 What I'm Really Good At
+
+<div align="center">
+
+```python
+class MySuperpowers:
+    """
+    Things I'm weirdly passionate about
+    """
+    
+    def optimize_everything(self):
+        """I see slow code, I make it fast"""
+        return "73% faster queries? Amateur numbers. Let me try again."
+    
+    def debug_at_weird_hours(self):
+        """2am is prime debugging time"""
+        return "Found the race condition! *sends Slack at 3am*"
+    
+    def build_real_things(self):
+        """No tutorials, just production code"""
+        return "200+ users depending on my code. No pressure."
+    
+    def automate_boring_stuff(self):
+        """Why do it manually when Python exists?"""
+        return "Reduced 3 hours of work to 30 minutes. Time for more coffee."
+    
+    def teach_complex_topics(self):
+        """Making hard stuff click"""
+        return "Taught 40 students OOP. They actually enjoyed it. Wild."
+```
+
+</div>
+
+---
+
+## 📫 Let's Talk!
+
+<div align="center">
+
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect!-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alissaannjosy)
+  [![Email](https://img.shields.io/badge/Email-Say_Hi!-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alissaannjosy@gmail.com)
+  [![GitHub](https://img.shields.io/badge/GitHub-You're_Already_Here-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/123Alissaa)
+
+  **🚀 Open to Summer 2026 SWE Internships!**
   
-  ![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+  *I build fast, reliable systems. I optimize everything. I actually enjoy debugging.*  
+  *Let's build something cool together!*
+
+</div>
+
+---
+
+## 🎵 Current Vibe
+
+<div align="center">
+
+```
+    ♪♫♪  Now Playing: Debugging This Production Issue  ♪♫♪
+    
+    [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] 2:47 / 3:00
+    
+         ⏮️  ⏸️  ⏭️     🔊 ──────○ 🔄 ∞
+```
+
+**Also:** Probably drinking coffee ☕ | Probably has 47 browser tabs open 🌐 | Probably should be sleeping 😴
+
+</div>
+
+---
+
+<div align="center">
+
+  ![Visitor Count](https://komarev.com/ghpvc/?username=123Alissaa&color=FF6EC7&style=for-the-badge&label=CURIOUS+VISITORS)
+  
+  ### 💖 Thanks for stopping by! Feel free to explore my repos!
+  
+  *P.S. - If you found a bug in my code, no you didn't* 😇
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&fontSize=0"/>
 
 </div>

@@ -280,7 +280,7 @@ wanted to understand microservices and distributed systems. built a shopping pla
 
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-let's_connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alissaannjosy)
 [![Email](https://img.shields.io/badge/📧_Email-say_hi-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alissaannjosy@gmail.com)
-[![Portfolio](https://img.shields.io/badge/🌸_Portfolio-visit_my_site-FF69B4?style=for-the-badge&logo=About.me&logoColor=white)](https://yourportfolio.com)
+[![Portfolio](https://img.shields.io/badge/🌸_Portfolio-visit_my_site-FF69B4?style=for-the-badge&logo=About.me&logoColor=white)](https://alissa-portfolio.lovable.app/)
 
 <br/>
 

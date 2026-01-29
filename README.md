@@ -1,209 +1,296 @@
-# 👋 hey there!
-
-i'm alissa, a cs student at USF who gets weirdly excited about making databases go fast and building things that actually work in production.
-
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&multiline=true&width=600&height=80&lines=currently%3A+making+robots+smarter;previously%3A+optimizing+queries+at+2am;always%3A+breaking+things+then+fixing+them)
+# 🎮 WELCOME TO MY CODE PLAYGROUND
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,6,14,2&height=200&section=header&text=alissa's%20github&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=500&color=FF00FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=120&lines=backend+engineer+🚀;performance+optimizer+⚡;ai+tinkerer+🤖;professional+debugger+🐛;coffee+enthusiast+☕)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 🎯 quick stats
+## 🎲 ROLL THE DICE - EXPLORE MY PROJECTS
 
-<table>
-<tr>
-<td>
+<div align="center">
 
-**currently building:**
-- ai-powered recipe system for a robot 🤖
-- real-time collaborative tools
-- automation scripts (because manual work? no thanks)
+| 🎯 CLICK TO EXPLORE | ⚡ SPEED DEMON | 🤖 AI STUFF | 🏗️ SYSTEMS |
+|:---:|:---:|:---:|:---:|
+| [**What I Built**](#-what-ive-built) | [**Optimizations**](#-speed-records) | [**AI Projects**](#-ai-experiments) | [**Tech Stack**](#-my-arsenal) |
 
-**recently achieved:**
-- 73% faster database queries
-- 99.8% system uptime
-- grew a student org from 60→200 people with one python script
+</div>
 
-</td>
-<td>
+---
 
-**tech i vibe with:**
-```python
-favorites = {
-  'languages': ['python', 'typescript', 'java'],
-  'backend': ['fastapi', 'node.js', 'websockets'],
-  'data': ['postgresql', 'mongodb'],
-  'currently_learning': ['llms', 'distributed systems']
-}
+## 🎨 CURRENT STATUS
+
+```javascript
+┌─────────────────────────────────────────┐
+│  ALISSA.EXE IS RUNNING...              │
+├─────────────────────────────────────────┤
+│  Location: Tampa, FL 🌴                │
+│  Role: CS Student @ USF                │
+│  Level: Junior (Class of 2027)         │
+│  XP: 3.78 GPA / 4.0                    │
+│                                         │
+│  💻 Currently Working On:               │
+│    → Making robots understand recipes   │
+│    → Teaching 40 students to code       │
+│    → Optimizing ALL the queries         │
+│                                         │
+│  ⚡ Active Buffs:                       │
+│    +99 Debugging Power                  │
+│    +85 Query Optimization               │
+│    +73 System Design                    │
+│                                         │
+│  🎯 Quest: Find Summer 2026 Internship │
+└─────────────────────────────────────────┘
 ```
 
-</td>
-</tr>
-</table>
-
 ---
-
-## 🚀 stuff i've built
-
-### [💬 collabpad](https://github.com/123Alissaa/collabpad) - when you want google docs but for code
-> real-time collaborative editor that doesn't lag
-
-**the cool parts:**
-- ⚡ sub-50ms latency (yes, i timed it)
-- 👥 25+ people coding together without chaos
-- 🎯 99.2% conflict resolution
-- 📊 handles 3,500+ messages/min
-- 🚀 optimized postgres queries 73% faster
-
-built this to understand how notion/figma do real-time collaboration. learned way too much about websockets and concurrency.
-
-**stack:** fastapi • websockets • postgresql • next.js
-
----
-
-### [🤖 ai interview coach](https://github.com/123Alissaa/ai-interview-coach) - practice interviews with a local llm
-> because practicing alone is weird
-
-**what it does:**
-- 🧠 runs mistral 7b locally (no cloud needed)
-- ⚡ 40% faster through async magic
-- 🎯 reduced ai hallucinations from 30% → 5%
-- 📈 real-time performance monitoring
-
-turned out prompt engineering is like debugging but for ai. also learned that llms are confidently wrong about things.
-
-**stack:** python • ollama • streamlit • plotly
-
----
-
-### [🛒 e-commerce thing](https://github.com/123Alissaa/ecommerce) - distributed transactions that don't break
-> practicing microservices without the enterprise complexity
-
-**highlights:**
-- 💳 acid transactions (no double-charging)
-- ⚡ 68% faster checkout (1.2s → 380ms)
-- 🏗️ microservices architecture
-- ✅ 85% test coverage (i actually write tests!)
-
-learned that preventing race conditions in payment systems is harder than it looks.
-
-**stack:** typescript • node.js • graphql • postgresql
-
----
-
-## 📊 github activity
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=123Alissaa&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=9D4EDD&icon_color=00D9FF)
+## 🎪 CHOOSE YOUR ADVENTURE
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=123Alissaa&theme=radical&hide_border=true&background=0d1117&ring=9D4EDD&fire=00D9FF)
+</div>
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=123Alissaa&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=9D4EDD&line=00D9FF)
+<details>
+<summary>🎮 <b>OPTION 1: Show Me The Cool Projects</b></summary>
+<br/>
+
+### 💬 COLLABPAD - Multiplayer Code Editor
+<img align="right" width="300" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
+
+**The Story:**  
+Ever wondered how Google Docs lets everyone edit at once? Me too. So I built it. For code.
+
+**The Stats:**
+```
+⚡ Latency:        < 50ms
+👥 Concurrent:     25+ users
+🎯 Conflicts:      99.2% resolved automatically
+📊 Throughput:     3,500 msg/min
+🚀 Speed Boost:    73% faster queries
+```
+
+**Tech:** FastAPI • WebSockets • PostgreSQL • React
+
+**What I Learned:**  
+Race conditions are my nemesis. WebSockets are my friends. 2am is peak debugging time.
+
+[→ Check it out](https://github.com/123Alissaa/collabpad)
+
+<br clear="right"/>
+
+---
+
+### 🤖 AI INTERVIEW COACH - Your Practice Buddy
+<img align="left" width="300" src="https://media.giphy.com/media/3o7qDSOvfaCO9b3MlO/giphy.gif"/>
+
+**The Story:**  
+Practicing interviews alone is awkward. Built an AI coach that runs locally so it can't judge me.
+
+**The Stats:**
+```
+🧠 Model:          Mistral 7B (local)
+⚡ Speed:          40% faster via async
+🎯 Accuracy:       Hallucinations 30% → 5%
+📈 Monitoring:     Real-time dashboard
+```
+
+**Tech:** Python • Ollama • Streamlit • Plotly
+
+**What I Learned:**  
+Prompt engineering = debugging but for AI. Also, AI is confidently wrong about things.
+
+[→ Try it](https://github.com/123Alissaa/ai-coach)
+
+<br clear="left"/>
+
+---
+
+### 🛒 DISTRIBUTED SHOPPING - No Double Charging
+<img align="right" width="300" src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif"/>
+
+**The Story:**  
+Built a distributed e-commerce system to learn about microservices. Turns out preventing race conditions in payments is HARD.
+
+**The Stats:**
+```
+💳 Safety:         ACID transactions
+⚡ Speed:          68% faster (1.2s → 380ms)
+🏗️ Scale:          100+ concurrent users
+✅ Quality:        85% test coverage
+```
+
+**Tech:** TypeScript • Node.js • GraphQL • PostgreSQL
+
+**What I Learned:**  
+Write tests. Seriously. Especially for anything involving money.
+
+[→ See code](https://github.com/123Alissaa/ecommerce)
+
+<br clear="right"/>
+
+</details>
+
+<details>
+<summary>⚡ <b>OPTION 2: Show Me Your Speed Records</b></summary>
+<br/>
+
+## 🏆 OPTIMIZATION HALL OF FAME
+
+<div align="center">
+
+| 🎯 Achievement | 📊 Before → After | 💪 How? |
+|:---|:---:|---:|
+| Database Queries | 45ms → 12ms | **-73%** indexing + connection pooling |
+| Checkout Endpoint | 1.2s → 380ms | **-68%** query optimization + caching |
+| AI Pipeline | baseline → 40% faster | **-40%** async processing |
+| Manual Work | 3 hours → 30 min | **-90%** python automation |
+| API Failures | 20% → 3% | **-85%** better error handling |
+
+</div>
+
+### 🔥 MY OPTIMIZATION PHILOSOPHY
+
+```python
+def optimize(code):
+    """My approach to making things fast"""
+    
+    # Step 1: Measure everything
+    profile_the_code()
+    
+    # Step 2: Find the slowest part
+    bottleneck = identify_slowest_operation()
+    
+    # Step 3: Make it go brrrr
+    while bottleneck.is_slow():
+        try_indexes()
+        try_caching()
+        try_async()
+        test_performance()
+    
+    # Step 4: Repeat until satisfied (never)
+    return "73% faster but could be better"
+```
+
+**Translation:** I see slow code, I fix slow code. It's a problem.
+
+</details>
+
+<details>
+<summary>🤖 <b>OPTION 3: Show Me The AI Stuff</b></summary>
+<br/>
+
+## 🧠 AI EXPERIMENTS LAB
+
+### Currently Running:
+- **Google Gemini API** - Powering recipe recommendations for a robot
+- **Mistral 7B** - Local interview coaching system
+- **Prompt Engineering** - Reduced AI hallucinations from 30% to <5%
+
+### What I've Learned:
+
+```
+✅ AI is amazing when it works
+✅ AI is frustratingly confident when it's wrong
+✅ Async processing makes everything faster
+✅ Monitoring AI systems is crucial
+✅ Local LLMs > cloud for practice projects
+❌ AI will not write bug-free code (yet)
+```
+
+### Real Results:
+- 📊 200+ user requests processed
+- 🤖 150+ AI-generated outputs
+- ⚡ 40% latency reduction via optimization
+- 🎯 95% accuracy after prompt tuning
+
+**Next Up:** Exploring RAG, vector databases, and LangChain
+
+</details>
+
+<details>
+<summary>🏗️ <b>OPTION 4: Show Me The Tech Stack</b></summary>
+<br/>
+
+## 🛠️ MY ARSENAL
+
+<div align="center">
+
+### **Backend Wizardry**
+![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-Advanced-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-Advanced-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-Proficient-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+### **Framework Power**
+![FastAPI](https://img.shields.io/badge/FastAPI-Love-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-Daily-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-Comfortable-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-Building-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+
+### **Database Mastery**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Optimizing-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-Indexing-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### **DevOps Tools**
+![Docker](https://img.shields.io/badge/Docker-Containerizing-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-Version_Control-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-Daily_Driver-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
+
+### Skill Tree Progress:
+
+**Backend Development**  
+███████████████████░ 95%
+
+**Database Optimization**  
+██████████████████░░ 90%
+
+**Real-Time Systems**  
+█████████████████░░░ 85%
+
+**AI/ML Integration**  
+██████████████░░░░░░ 70%
+
+**System Design**  
+█████████████░░░░░░░ 65%
+
+</details>
+
+---
+
+<div align="center">
+
+## 📊 LIVE STATS DASHBOARD
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=123Alissaa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF00FF&icon_color=00D9FF&text_color=FFFFFF"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=123Alissaa&theme=tokyonight&hide_border=true&background=0D1117&ring=FF00FF&fire=00D9FF&currStreakLabel=FF00FF"/>
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=123Alissaa&custom_title=Coding%20Activity%20📈&bg_color=0D1117&color=FF00FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=123Alissaa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF00FF&text_color=FFFFFF)
 
 </div>
 
 ---
 
-## 💼 what i do
-
-**backend engineer @ RARE Lab** *(aug 2025 - now)*
-
-building production ai systems:
-- integrated google's gemini api for a robot
-- processing 200+ requests, generating 150+ ai outputs
-- improved reliability from 80% → 97%
-- debugging race conditions in distributed systems
-
-**vp @ bridges international** *(apr 2025 - now)*
-
-leading a team supporting 200+ students:
-- built python automation (3 hours → 30 min)
-- scaled org from 60 to 200 members
-- learned that automation > manual work, always
-
-**instructor @ girls who code** *(aug 2024)*
-
-taught 40 high schoolers that coding isn't scary:
-- made oop and algorithms actually fun
-- grew attendance 60% (25→40 students)
-- discovered i like teaching
-
----
-
-## 🎓 education
-
-**university of south florida** • cs major • gpa 3.78/4.0 • graduating may 2027
-
-relevant coursework: data structures, algorithms, computer architecture, large language models, ai
-
----
-
-## 🔍 things i'm good at
-
-<details>
-<summary><b>⚡ making things fast</b></summary>
-
-i see slow code and immediately want to optimize it:
-- 73% query speedup (45ms → 12ms)
-- 68% checkout optimization (1.2s → 380ms)
-- 40% latency reduction in async pipelines
-
-basically if it takes more than 100ms i'm already thinking about how to make it faster.
-
-</details>
-
-<details>
-<summary><b>🐛 debugging production issues</b></summary>
-
-reduced api failures from 20% to 3% by:
-- finding race conditions in concurrent code
-- implementing proper error handling
-- adding monitoring and logging
-- testing edge cases
-
-peak debugging time: 2am. don't ask why.
-
-</details>
-
-<details>
-<summary><b>🏗️ building real-time systems</b></summary>
-
-websockets, async processing, state management:
-- sub-50ms latency for real-time collaboration
-- handling thousands of messages per minute
-- conflict resolution for concurrent edits
-- 99.2% automatic conflict detection
-
-</details>
-
-<details>
-<summary><b>🤖 working with llms</b></summary>
-
-practical ai/ml experience:
-- integrated google gemini api in production
-- ran mistral 7b locally for ai coaching
-- reduced hallucinations through prompt engineering
-- built monitoring dashboards for ai systems
-
-</details>
-
----
-
-## 📫 let's connect
-
 <div align="center">
 
-[![linkedin](https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alissaannjosy)
-[![email](https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alissaannjosy@gmail.com)
-[![github](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/123Alissaa)
+## 🎯 SIDE QUESTS COMPLETED
 
-**open to summer 2026 swe internships**
-
-i build backend systems, optimize databases, and actually enjoy debugging.  
-let's build something cool.
+| Quest | Reward | Status |
+|:------|:------:|:------:|
+| Lead 200+ student org | +Leadership | ✅ |
+| Build production AI system | +Experience | ✅ |
+| Optimize queries 73% | +Performance | ✅ |
+| Teach 40 students | +Teaching | ✅ |
+| Maintain 99.8% uptime | +Reliability | ✅ |
+| Debug at 2am | +Determination | ✅ (unfortunately) |
 
 </div>
 
@@ -211,8 +298,27 @@ let's build something cool.
 
 <div align="center">
 
-![visitors](https://komarev.com/ghpvc/?username=123Alissaa&color=9D4EDD&style=for-the-badge)
+## 📬 CONTACT MENU
 
-*thanks for stopping by! feel free to explore my repos* ✨
+[![LinkedIn](https://img.shields.io/badge/🔗_LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/alissaannjosy)
+[![Email](https://img.shields.io/badge/📧_Email-Say_Hi-D14836?style=for-the-badge&logo=gmail)](mailto:alissaannjosy@gmail.com)
+[![GitHub](https://img.shields.io/badge/⭐_GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/123Alissaa)
+
+### 💼 OPEN TO SUMMER 2026 INTERNSHIPS
+
+*i build backend systems. i optimize databases. i actually enjoy debugging.*  
+*let's build something cool together.*
+
+</div>
+
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=123Alissaa&color=blueviolet&style=for-the-badge&label=VISITORS)
+
+### 🎉 thanks for exploring! feel free to check out my repos
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,6,14,2&height=150&section=footer"/>
 
 </div>

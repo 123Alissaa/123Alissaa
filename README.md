@@ -84,19 +84,6 @@
 
 </div>
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  
-  ![Alissa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=123Alissaa&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=123Alissaa&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=123Alissaa&theme=radical&hide_border=true&background=0D1117)
-
-</div>
 
 ---
 

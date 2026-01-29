@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,20,23,21,22&height=200&section=header&text=Lady%20Alissa's%20Code%20Estate&fontSize=50&fontColor=D4AF37&animation=fadeIn&fontAlignY=38"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,20,23,21,22&height=180&section=header&text=Hey%20There%2C%20This%20is%20Alissa&fontSize=45&fontColor=D4AF37&animation=fadeIn&fontAlignY=35"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=26&duration=3000&pause=1000&color=D4AF37&center=true&vCenter=true&width=800&lines=Software+Engineer+%7C+Builder+of+Systems;Optimizer+of+Queries+%7C+Debugger+of+Code;Currently+Seeking+a+Summer+Season+2026)](https://git.io/typing-svg)
-
-*A collection of technical pursuits and digital accomplishments*
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=22&duration=2500&pause=800&color=D4AF37&center=true&vCenter=true&width=700&lines=building+elegant+backend+systems+%E2%9C%A8;optimizing+queries+with+finesse+%F0%9F%92%8E;debugging+at+ungodly+hours+%F0%9F%8C%99;currently+seeking+summer+2026+opportunities+%F0%9F%8C%B8)](https://git.io/typing-svg)
 
 </div>
 
@@ -12,67 +10,60 @@
 
 <div align="center">
 
-## 📜 *An Introduction to the Lady of Code*
+## 💌 *a little about me*
 
 </div>
 
-Dearest Reader,
+**cs student @ usf** 🎓 | **tampa, fl** 🌴 | **gpa: 3.78/4.0** 💎 | **class of 2027** 🌸
 
-It has come to this author's attention that a certain Miss Alissa Ann Josy, a student of Computer Science at the University of South Florida, has been making quite the impression in the world of software engineering. With a distinguished academic record of 3.78, she has proven herself most capable in the arts of backend development and system optimization.
+i build things that work, break things that don't, and make databases run faster than a gossip spreads through the ton.
 
-Currently in her junior year of study (graduating in the year of our Lord 2027), Lady Alissa spends her days building AI-powered systems, optimizing database queries with unprecedented efficiency, and leading a society of international students with remarkable automation prowess.
-
-*Her motto: "Why perform manual labour when one can write a script?"*
+currently: teaching a robot to understand recipes 🤖 | leading 200+ students 👥 | optimizing everything i touch ⚡
 
 ---
 
 <div align="center">
 
-## 🎭 *The Season's Most Notable Accomplishments*
+## 🎭 *the current season*
 
 </div>
 
 <table>
 <tr>
-<td width="50%">
+<td width="33%" align="center">
 
-### 💎 *Technical Proficiencies*
+**🏛️ current position**
 
-**Languages of Fluency:**
-- Python (most favored)
-- JavaScript & TypeScript
-- Java
-- C/C++
-- SQL
+backend software engineer  
+*RARE Lab, USF*
 
-**Frameworks of Choice:**
-- FastAPI
-- Node.js & Express
-- React & Next.js
-- WebSockets
-
-**Data Management:**
-- PostgreSQL
-- MongoDB
+building AI systems  
+processing 200+ requests  
+99.8% uptime
 
 </td>
-<td width="50%">
+<td width="33%" align="center">
 
-### 🏛️ *Current Engagements*
+**👑 society leadership**
 
-**Position Held:**
-> Backend Software Engineer  
-> *RARE Laboratory, USF*  
-> August 2025 - Present
+vice president  
+*Bridges International*
 
-**Society Leadership:**
-> Vice President  
-> *Bridges International*  
-> Leading 200+ members
+leading 200+ members  
+built python automation  
+90% efficiency gain
 
-**Notable Achievement:**
-> Reduced processing time by 90%  
-> *Through elegant automation*
+</td>
+<td width="33%" align="center">
+
+**📚 teaching**
+
+instructor  
+*Girls Who Code*
+
+taught 40 students  
+grew attendance 60%  
+made coding fun
 
 </td>
 </tr>
@@ -82,122 +73,52 @@ Currently in her junior year of study (graduating in the year of our Lord 2027),
 
 <div align="center">
 
-## ✨ *The Portfolio of Distinguished Works*
-
-*Click upon each entry to reveal its secrets*
+## 💎 *my toolbox*
 
 </div>
 
-<details>
-<summary>💌 <b>CollabPad - A Most Sophisticated Collaborative Editor</b></summary>
-
-<br/>
-
-<div align="center">
-<img width="600" src="https://readme-typing-svg.herokuapp.com/?font=Playfair+Display&size=20&duration=3000&pause=1000&color=D4AF37&center=true&vCenter=true&width=600&lines=Real-time+collaboration+for+the+modern+age"/>
-</div>
-
-### The Particulars
-
-Dear Reader, imagine if you will—a gathering where multiple persons of technical aptitude might simultaneously compose code, each keystroke appearing instantaneously upon the screens of all participants. This is precisely what CollabPad accomplishes.
-
-**Technical Specifications:**
-```
-⚡ Latency:           Sub-50 milliseconds
-👥 Concurrent Users:  25+ distinguished guests
-🎯 Conflict Resolution: 99.2% automatic
-📊 Message Throughput: 3,500 per minute
-🚀 Query Optimization: 73% improvement (45ms → 12ms)
-```
-
-**The Achievement:**  
-Through meticulous attention to indexing strategies and connection pooling, the database queries were refined to perform with unprecedented speed. One might say the queries now move with the grace of a well-choreographed quadrille.
-
-**Technologies Employed:**  
-FastAPI • WebSockets • PostgreSQL • Next.js
-
-[→ Inspect the Repository](https://github.com/123Alissaa/collabpad)
-
-</details>
-
-<details>
-<summary>🤖 <b>The AI Interview Coach - A Digital Companion</b></summary>
-
-<br/>
-
-<div align="center">
-<img width="600" src="https://readme-typing-svg.herokuapp.com/?font=Playfair+Display&size=20&duration=3000&pause=1000&color=D4AF37&center=true&vCenter=true&width=600&lines=Practicing+discourse+with+artificial+intelligence"/>
-</div>
-
-### The Particulars
-
-It occurred to this engineer that the practice of interview preparation, when conducted in solitude, lacks a certain je ne sais quoi. Thus, an artificial intelligence companion was created—one that operates locally and maintains the utmost discretion.
-
-**Technical Specifications:**
-```
-🧠 Model:            Mistral 7B (hosted locally)
-⚡ Performance:      40% latency reduction via asynchronous processing
-🎯 Accuracy:         Hallucination rate reduced from 30% to <5%
-📊 Monitoring:       Real-time performance observatory
-```
-
-**The Achievement:**  
-Through the careful art of prompt engineering—which one might compare to the delicate craft of composing a well-worded letter—the artificial intelligence was trained to provide responses of remarkable accuracy and relevance.
-
-**Technologies Employed:**  
-Python • Ollama • Streamlit • Plotly
-
-[→ Inspect the Repository](https://github.com/123Alissaa/ai-coach)
-
-</details>
-
-<details>
-<summary>🏛️ <b>The Distributed Commerce Platform - A Study in Transactions</b></summary>
-
-<br/>
-
-<div align="center">
-<img width="600" src="https://readme-typing-svg.herokuapp.com/?font=Playfair+Display&size=20&duration=3000&pause=1000&color=D4AF37&center=true&vCenter=true&width=600&lines=Where+commerce+meets+distributed+architecture"/>
-</div>
-
-### The Particulars
-
-In the pursuit of understanding microservices architecture, this platform was constructed to handle the delicate matter of financial transactions with the utmost care and precision.
-
-**Technical Specifications:**
-```
-💳 Transaction Safety: ACID-compliant operations
-⚡ Performance:        68% improvement (1.2s → 380ms)
-🏗️ Scalability:       100+ concurrent participants
-✅ Quality Assurance:  85% test coverage
-```
-
-**The Achievement:**  
-Through strategic database indexing and the elimination of redundant queries, the checkout process was refined to complete with remarkable swiftness—much like a well-executed country dance, where every step flows seamlessly into the next.
-
-**Technologies Employed:**  
-TypeScript • Node.js • GraphQL • PostgreSQL
-
-[→ Inspect the Repository](https://github.com/123Alissaa/ecommerce)
-
-</details>
-
----
-
+### languages
 <div align="center">
 
-## 📊 *The Records of Technical Activity*
-
-*An accounting of contributions and consistency*
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 </div>
 
+### backend & frameworks
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=123Alissaa&show_icons=true&theme=default&hide_border=true&bg_color=FFF8E7&title_color=8B4513&icon_color=D4AF37&text_color=000000&border_radius=10"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=123Alissaa&theme=default&hide_border=true&background=FFF8E7&ring=D4AF37&fire=8B4513&currStreakLabel=8B4513&border_radius=10"/>
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=123Alissaa&custom_title=A%20Chronicle%20of%20Contributions&bg_color=FFF8E7&color=8B4513&line=D4AF37&point=8B4513&area=true&hide_border=true)
+</div>
+
+### databases & tools
+<div align="center">
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+
+</div>
+
+### ai & ml
+<div align="center">
+
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-FF6B6B?style=for-the-badge&logo=openai&logoColor=white)
 
 </div>
 
@@ -205,45 +126,115 @@ TypeScript • Node.js • GraphQL • PostgreSQL
 
 <div align="center">
 
-## 🏆 *A Registry of Distinguished Achievements*
+## ✨ *projects worth exploring*
+
+*click to reveal the details*
+
+</div>
+
+<details>
+<summary>💬 <b>collabpad - real-time collaborative editor</b></summary>
+
+<br/>
+
+ever wondered how google docs lets everyone type at once? me too. so i built it for code.
+
+**what it does:**
+- ⚡ sub-50ms latency (i literally timed every keystroke)
+- 👥 25+ people coding simultaneously
+- 🎯 99.2% automatic conflict resolution
+- 📊 handles 3,500+ messages per minute
+- 💎 optimized queries 73% faster (45ms → 12ms)
+
+**the tea:** spent way too many late nights learning about websockets and race conditions. worth it though.
+
+**tech:** fastapi • websockets • postgresql • next.js
+
+[→ check it out](https://github.com/123Alissaa/collabpad)
+
+</details>
+
+<details>
+<summary>🤖 <b>ai interview coach - your practice buddy</b></summary>
+
+<br/>
+
+practicing interviews alone is awkward. so i made an AI friend that runs locally and can't judge me.
+
+**what it does:**
+- 🧠 runs mistral 7b locally (no cloud, no judgment)
+- ⚡ 40% faster through async processing
+- 🎯 reduced hallucinations from 30% → 5%
+- 📈 real-time performance dashboard
+
+**the tea:** turns out getting AI to be accurate is like debugging but for robots. prompt engineering = new obsession unlocked.
+
+**tech:** python • ollama • streamlit • plotly
+
+[→ see the code](https://github.com/123Alissaa/ai-coach)
+
+</details>
+
+<details>
+<summary>🛒 <b>distributed e-commerce platform</b></summary>
+
+<br/>
+
+wanted to understand microservices and distributed systems. built a shopping platform where money doesn't disappear mysteriously.
+
+**what it does:**
+- 💳 acid-compliant transactions (no double charging!)
+- ⚡ 68% faster checkout (1.2s → 380ms)
+- 🏗️ handles 100+ concurrent users
+- ✅ 85% test coverage (i write tests, shocking i know)
+
+**the tea:** learned that preventing race conditions in payment systems is HARD. also learned to love testing.
+
+**tech:** typescript • node.js • graphql • postgresql
+
+[→ browse the repo](https://github.com/123Alissaa/ecommerce)
+
+</details>
+
+---
+
+<div align="center">
+
+## 📊 *the stats*
+
+</div>
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=123Alissaa&show_icons=true&theme=default&hide_border=true&bg_color=FFF8E7&title_color=8B4513&icon_color=D4AF37&text_color=000000&border_radius=15"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=123Alissaa&theme=default&hide_border=true&background=FFF8E7&ring=D4AF37&fire=8B4513&currStreakLabel=8B4513&border_radius=15"/>
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=123Alissaa&custom_title=coding%20activity%20✨&bg_color=FFF8E7&color=8B4513&line=D4AF37&point=8B4513&area=true&hide_border=true)
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=123Alissaa&layout=compact&theme=default&hide_border=true&bg_color=FFF8E7&title_color=8B4513&text_color=000000&border_radius=15"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🏆 *achievements unlocked*
 
 </div>
 
 <table align="center">
 <tr>
-<th>Achievement</th>
-<th>Particulars</th>
-<th>Impact</th>
+<td align="center">⚡<br/><b>query wizard</b><br/>73% faster</td>
+<td align="center">💎<br/><b>optimization queen</b><br/>68% improvement</td>
+<td align="center">🤖<br/><b>ai tamer</b><br/>30% → 5% errors</td>
+<td align="center">🎯<br/><b>reliability pro</b><br/>99.8% uptime</td>
 </tr>
 <tr>
-<td>🎯 Query Optimization</td>
-<td>45ms → 12ms</td>
-<td><b>73% improvement</b></td>
-</tr>
-<tr>
-<td>⚡ Endpoint Enhancement</td>
-<td>1.2s → 380ms</td>
-<td><b>68% improvement</b></td>
-</tr>
-<tr>
-<td>🤖 AI Pipeline</td>
-<td>Latency reduction</td>
-<td><b>40% faster</b></td>
-</tr>
-<tr>
-<td>📊 System Reliability</td>
-<td>API failure rate</td>
-<td><b>20% → 3%</b></td>
-</tr>
-<tr>
-<td>👥 Society Growth</td>
-<td>60 → 200 members</td>
-<td><b>233% expansion</b></td>
-</tr>
-<tr>
-<td>⏰ Automation</td>
-<td>3 hours → 30 minutes</td>
-<td><b>90% efficiency gain</b></td>
+<td align="center">👥<br/><b>community builder</b><br/>60 → 200 members</td>
+<td align="center">⏰<br/><b>automation master</b><br/>90% time saved</td>
+<td align="center">🐛<br/><b>debug detective</b><br/>20% → 3% failures</td>
+<td align="center">👩‍🏫<br/><b>teacher</b><br/>40 students inspired</td>
 </tr>
 </table>
 
@@ -251,30 +242,28 @@ TypeScript • Node.js • GraphQL • PostgreSQL
 
 <div align="center">
 
-## 💌 *Invitations to Correspond*
+## 💌 *let's connect*
 
-*One may find Lady Alissa through the following channels*
+</div>
 
-<br/>
+<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_with_Lady_Alissa-8B4513?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=D4AF37)](https://linkedin.com/in/alissaannjosy)
-[![Email](https://img.shields.io/badge/Email-Send_Correspondence-8B4513?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D4AF37)](mailto:alissaannjosy@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_the_Estate-8B4513?style=for-the-badge&logo=About.me&logoColor=white&labelColor=D4AF37)](https://yourportfolio.com)
-
-<br/>
-
-### 🌹 *Currently Accepting Opportunities*
-**Summer Season 2026 Software Engineering Positions**
-
-*I build backend systems with the precision of a well-managed estate,*  
-*optimize databases with the efficiency of a properly run household,*  
-*and actually find pleasure in the art of debugging.*
-
-*Shall we build something remarkable together?*
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-let's_connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alissaannjosy)
+[![Email](https://img.shields.io/badge/📧_Email-say_hi-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alissaannjosy@gmail.com)
+[![Portfolio](https://img.shields.io/badge/🌸_Portfolio-visit_my_site-FF69B4?style=for-the-badge&logo=About.me&logoColor=white)](https://yourportfolio.com)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=123Alissaa&color=D4AF37&style=for-the-badge&label=DISTINGUISHED+VISITORS)
+### 🌸 *open to summer 2026 internships*
+
+*i build backend systems with precision, optimize databases obsessively,*  
+*and genuinely enjoy the art of debugging (yes, really).*
+
+*let's create something amazing together.*
+
+<br/>
+
+![visitors](https://komarev.com/ghpvc/?username=123Alissaa&color=D4AF37&style=for-the-badge&label=visitors)
 
 </div>
 
@@ -282,17 +271,13 @@ TypeScript • Node.js • GraphQL • PostgreSQL
 
 <div align="center">
 
-### 📜 *A Closing Note*
+*it is a truth universally acknowledged that a software engineer*  
+*in possession of good skills must be in want of an internship* ✨
 
-*It is a truth universally acknowledged, that a software engineer in possession*  
-*of good skills, must be in want of an internship.*
+<br/>
 
-*This profile shall be updated with regularity, as befits a person of*  
-*dedication and commitment to the craft.*
+<sub>this profile is updated regularly with new projects and achievements</sub>
 
-*Yours in code,*  
-***Lady Alissa***
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,20,23,21,22&height=150&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,20,23,21,22&height=120&section=footer"/>
 
 </div>

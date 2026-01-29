@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,20,23,21,22&height=180&section=header&text=Hey%20There%2C%20This%20is%20Alissa&fontSize=45&fontColor=D4AF37&animation=fadeIn&fontAlignY=35"/>
+# Hey There, This is Alissa 👋✨
+
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=22&duration=2500&pause=800&color=D4AF37&center=true&vCenter=true&width=700&lines=building+elegant+backend+systems+%E2%9C%A8;optimizing+queries+with+finesse+%F0%9F%92%8E;debugging+at+ungodly+hours+%F0%9F%8C%99;currently+seeking+summer+2026+opportunities+%F0%9F%8C%B8)](https://git.io/typing-svg)
 
@@ -30,36 +32,48 @@ currently: teaching a robot to understand recipes 🤖 | leading 200+ students �
 
 <table>
 <tr>
-<td width="33%" align="center">
+<td width="25%" align="center">
 
-**🏛️ current position**
+**🏛️ backend engineer**
 
-backend software engineer  
-*RARE Lab, USF*
+*RARE Lab, USF*  
+aug 2025 - present
 
 building AI systems  
 processing 200+ requests  
 99.8% uptime
 
 </td>
-<td width="33%" align="center">
+<td width="25%" align="center">
 
-**👑 society leadership**
+**📚 student assistant**
 
-vice president  
-*Bridges International*
+*Undergraduate Studies, USF*  
+june 2024 - present
 
-leading 200+ members  
-built python automation  
-90% efficiency gain
+python automation  
+20% time saved  
+40% fewer tickets
 
 </td>
-<td width="33%" align="center">
+<td width="25%" align="center">
 
-**📚 teaching**
+**👑 vice president**
 
-instructor  
-*Girls Who Code*
+*Bridges International*  
+apr 2025 - present
+
+leading 200+ members  
+90% efficiency gain  
+scaled from 60 to 200
+
+</td>
+<td width="25%" align="center">
+
+**👩‍🏫 instructor**
+
+*Girls Who Code*  
+aug 2024
 
 taught 40 students  
 grew attendance 60%  
@@ -137,6 +151,12 @@ made coding fun
 
 <br/>
 
+<div align="center">
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="350"/>
+</div>
+
+<br/>
+
 ever wondered how google docs lets everyone type at once? me too. so i built it for code.
 
 **what it does:**
@@ -159,6 +179,12 @@ ever wondered how google docs lets everyone type at once? me too. so i built it 
 
 <br/>
 
+<div align="center">
+<img src="https://media.giphy.com/media/3o7qDSOvfaCO9b3MlO/giphy.gif" width="350"/>
+</div>
+
+<br/>
+
 practicing interviews alone is awkward. so i made an AI friend that runs locally and can't judge me.
 
 **what it does:**
@@ -177,6 +203,12 @@ practicing interviews alone is awkward. so i made an AI friend that runs locally
 
 <details>
 <summary>🛒 <b>distributed e-commerce platform</b></summary>
+
+<br/>
+
+<div align="center">
+<img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="350"/>
+</div>
 
 <br/>
 
@@ -271,6 +303,10 @@ wanted to understand microservices and distributed systems. built a shopping pla
 
 <div align="center">
 
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="400"/>
+
+<br/><br/>
+
 *it is a truth universally acknowledged that a software engineer*  
 *in possession of good skills must be in want of an internship* ✨
 
@@ -278,6 +314,8 @@ wanted to understand microservices and distributed systems. built a shopping pla
 
 <sub>this profile is updated regularly with new projects and achievements</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,20,23,21,22&height=120&section=footer"/>
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,20,23,21,22&height=100&section=footer"/>
 
 </div>

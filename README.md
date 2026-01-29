@@ -2,8 +2,6 @@
 
 # Hey There, This is Alissa 👋✨
 
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400"/>
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=22&duration=2500&pause=800&color=D4AF37&center=true&vCenter=true&width=700&lines=building+elegant+backend+systems+%E2%9C%A8;optimizing+queries+with+finesse+%F0%9F%92%8E;debugging+at+ungodly+hours+%F0%9F%8C%99;currently+seeking+summer+2026+opportunities+%F0%9F%8C%B8)](https://git.io/typing-svg)
 
 </div>

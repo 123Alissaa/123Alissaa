@@ -49,25 +49,47 @@ i build backend systems, optimize databases, and debug at ungodly hours
 
 <div align="center">
 
-### ✨ Featured Projects
+### 🎭 Current Roles
 
 </div>
 
-<img align='right' src='https://i.pinimg.com/originals/57/00/c0/5700c04197ee9a4372a35ef16eb78f4e.gif' width='150'>
+<table>
+<tr>
+<td width="33%" align="center">
 
-**💬 CollabPad** - Real-time collaborative editor  
-⚡ Sub-50ms latency | 25+ concurrent users | 99.2% conflict resolution  
-[→ check it out](https://github.com/123Alissaa/collabpad)
+**🏛️ Backend Engineer**  
+*RARE Lab, USF*  
+aug 2025 - present
 
-**🤖 AI Interview Coach** - Local AI practice buddy  
-🧠 Mistral 7B locally | 40% faster | 5% hallucination rate  
-[→ see the code](https://github.com/123Alissaa/ai-coach)
+🤖 building AI systems  
+📊 processing 200+ requests  
+✨ 99.8% uptime
 
-**🛒 E-Commerce Platform** - Distributed microservices  
-💳 ACID-compliant | 68% faster checkout | 100+ concurrent users  
-[→ browse the repo](https://github.com/123Alissaa/ecommerce)
+</td>
+<td width="33%" align="center">
 
-<br clear="right"/>
+**📚 Student Assistant**  
+*Undergraduate Studies, USF*  
+june 2024 - present
+
+🐍 python automation  
+⏰ 20% time saved  
+🎯 40% fewer tickets
+
+</td>
+<td width="33%" align="center">
+
+**👑 Vice President**  
+*Bridges International*  
+apr 2025 - present
+
+👥 leading 200+ members  
+⚡ 90% efficiency gain  
+📈 scaled from 60 to 200
+
+</td>
+</tr>
+</table>
 
 ---
 

@@ -1,24 +1,30 @@
 <div align="center">
 
-### Hey There, This is Alissa <img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width="30"/>
+# Hey There, This is Alissa ✨
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=22&duration=2500&pause=800&color=D4AF37&center=true&vCenter=true&width=700&lines=building+elegant+backend+systems+%E2%9C%A8;optimizing+queries+with+finesse+%F0%9F%92%8E;debugging+at+ungodly+hours+%F0%9F%8C%99;currently+seeking+summer+2026+opportunities+%F0%9F%8C%B8)](https://git.io/typing-svg)
 
 </div>
 
-<img align='right' src='https://media.tenor.com/Dx43IFT9z-cAAAAi/pusheen-cat.gif' width='200'>
+<img align='right' src='https://i.pinimg.com/originals/e4/ff/9d/e4ff9d48ef765db4c9a87302b83b2f22.gif' width='200'>
 
 **cs student @ usf** 🎓 | **tampa, fl** 🌴 | **gpa: 3.78/4.0** 💎 | **class of 2027** 🌸
 
 i build backend systems, optimize databases, and debug at ungodly hours 
 
-**currently:** teaching robots to understand recipes 🤖 | leading 200+ students 👥 | seeking summer 2026 opportunities ✨
+**currently:** teaching robots to understand recipes 🤖 | leading 200+ students 👥 | seeking summer 2026 opportunities 
 
 <br clear="right"/>
 
 ---
 
-### <img src="https://media.tenor.com/YZPnGuMiyXAAAAAi/chrome-dino.gif" width="30"/> Tech Stack
+<div align="center">
 
-<img src="https://media.tenor.com/a0xxGa4kUWIAAAAi/nyan-cat-nyan.gif" width="40">
+### 💎 Tech Stack
+
+<img src='https://i.pinimg.com/originals/8d/59/3e/8d593ec08c5caa9db4097089753fsilon.gif' width='50'>
+
+</div>
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -35,13 +41,19 @@ i build backend systems, optimize databases, and debug at ungodly hours
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-<img src="https://media.tenor.com/a0xxGa4kUWIAAAAi/nyan-cat-nyan.gif" width="40">
+<div align="center">
+<img src='https://i.pinimg.com/originals/8d/59/3e/8d593ec08c5caa9db4097089753f1son.gif' width='50'>
+</div>
 
 ---
 
-### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4bb/512.gif" width="30"/> Featured Projects
+<div align="center">
 
-<img align='right' src='https://media.tenor.com/wpk2M5cvBPcAAAAi/tkthao219-bubududu.gif' width='150'>
+### ✨ Featured Projects
+
+</div>
+
+<img align='right' src='https://i.pinimg.com/originals/57/00/c0/5700c04197ee9a4372a35ef16eb78f4e.gif' width='150'>
 
 **💬 CollabPad** - Real-time collaborative editor  
 ⚡ Sub-50ms latency | 25+ concurrent users | 99.2% conflict resolution  
@@ -59,24 +71,26 @@ i build backend systems, optimize databases, and debug at ungodly hours
 
 ---
 
-### <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGlqdDR4N3BldWo0aHN0dXYwdzdkMXVpOHJqbWRkdnB0Mm1yeTRxayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/lXHwJv89PvdN200Xnj/giphy.gif" width="30"/> GitHub Stats
-
 <div align="center">
 
-<img src="https://media.tenor.com/Pj1-ZgdPCqcAAAAi/milk-and-mocha-cute.gif" width="60">
+### 📊 GitHub Stats
+
+<img src='https://i.pinimg.com/originals/18/a4/94/18a494043d1c36fc839bc58c7c74d3b5.gif' width='60'>
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=123Alissaa&show_icons=true&theme=radical&hide_border=true"/>
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=123Alissaa&theme=radical&hide_border=true"/>
+
+<img src='https://i.pinimg.com/originals/18/a4/94/18a494043d1c36fc839bc58c7c74d3b5.gif' width='60'>
 
 </div>
 
 ---
 
-### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f338/512.gif" width="30"/> Let's Connect
-
 <div align="center">
 
-<img src="https://media.tenor.com/2nKSTDDekOgAAAAi/coding-kira.gif" width="100">
+### 💌 Let's Connect
+
+<img src='https://i.pinimg.com/originals/f3/26/ec/f326ec217c1e0d4e66eb0b115ba9d0a6.gif' width='100'>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alissaannjosy)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alissaannjosy@gmail.com)
@@ -86,6 +100,6 @@ i build backend systems, optimize databases, and debug at ungodly hours
 
 ![visitors](https://komarev.com/ghpvc/?username=123Alissaa&color=FF69B4&style=for-the-badge)
 
-<img src="https://media.tenor.com/qJ5evVs-_uUAAAAi/coding.gif" width="100">
+<img src='https://i.pinimg.com/originals/0f/25/e4/0f25e4668c1c9a3c8c31d4ee81b5dba5.gif' width='100'>
 
 </div>

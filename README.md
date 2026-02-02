@@ -18,7 +18,7 @@
 
 i build things that work, break things that don't, and make databases run faster than a gossip spreads through the ton.
 
-currently: teaching a robot to understand recipes 🤖 | leading 200+ students 👥 | optimizing everything i touch ⚡
+currently: teaching a robot to understand recipes 🤖 | leading 200+ students 👥 | optimizing everything i touch ⚡ | binge watching bridgerton 
 
 ---
 

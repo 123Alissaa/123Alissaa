@@ -1,396 +1,63 @@
-<div align="center">
+### Hey There, This is Alissa <img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width="30"/>
 
-```
-   ╔══════════════════════════════════════════════════════════════╗
-   ║                                                              ║
-   ║     ✧･ﾟ: *✧･ﾟ:*    Hey There, This is Alissa    *:･ﾟ✧*:･ﾟ✧     ║
-   ║                                                              ║
-   ╚══════════════════════════════════════════════════════════════╝
-```
+<img align='right' src='https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif' width='300'>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2500&pause=800&color=FF69B4&center=true&vCenter=true&width=700&lines=building+elegant+backend+systems+%E2%9C%A8;optimizing+queries+with+finesse+%F0%9F%92%8E;debugging+at+ungodly+hours+%F0%9F%8C%99;currently+seeking+summer+2026+opportunities+%F0%9F%8C%B8)](https://git.io/typing-svg)
+**cs student @ usf** 🎓 | **tampa, fl** 🌴 | **gpa: 3.78/4.0** 💎 | **class of 2027** 🌸
 
-</div>
+i build backend systems, optimize databases, and debug at ungodly hours <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="20"/>
 
-```ascii
-    /\_/\  
-   ( o.o ) 
-    > ^ <    "cs student making databases purr"
-   /|   |\
-  (_|   |_)
-```
+currently: teaching robots to understand recipes <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="20"/> | leading 200+ students | seeking summer 2026 opportunities
 
 ---
 
-## 📍 about me
+### <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25"/> Tech Stack
 
-**🎓 cs student @ usf** • **🌴 tampa, fl** • **💎 gpa: 3.78/4.0** • **🌸 class of 2027**
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-i build things that work, break things that don't, and make databases run faster than a gossip spreads through the ton.
-
-```
-currently doing:
-  ├─ 🤖 teaching a robot to understand recipes
-  ├─ 👥 leading 200+ students
-  ├─ ⚡ optimizing everything i touch
-  └─ 📺 binge watching bridgerton (essential research)
-```
-
----
-
-## 🎭 the current season
-
-<table>
-<tr>
-<td width="25%" align="center">
-
-**🏛️ backend engineer**  
-*RARE Lab, USF*  
-aug 2025 - present
-
-🤖 building AI systems  
-📊 processing 200+ requests  
-✨ 99.8% uptime
-
-</td>
-<td width="25%" align="center">
-
-**📚 student assistant**  
-*Undergraduate Studies, USF*  
-june 2024 - present
-
-🐍 python automation  
-⏰ 20% time saved  
-🎯 40% fewer tickets
-
-</td>
-<td width="25%" align="center">
-
-**👑 vice president**  
-*Bridges International*  
-apr 2025 - present
-
-👥 leading 200+ members  
-⚡ 90% efficiency gain  
-📈 scaled from 60 to 200
-
-</td>
-<td width="25%" align="center">
-
-**👩‍🏫 instructor**  
-*Girls Who Code*  
-aug 2024
-
-💕 taught 40 students  
-📈 grew attendance 60%  
-✨ made coding fun
-
-</td>
-</tr>
-</table>
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
-## 💎 my toolbox
+### <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="25"/> Featured Projects
 
-<div align="center">
+**💬 CollabPad** - Real-time collaborative editor  
+⚡ Sub-50ms latency | 25+ concurrent users | 99.2% conflict resolution  
+[→ check it out](https://github.com/123Alissaa/collabpad)
 
-### ・✦▭▭▭✧◦✦◦✧▭▭▭✦・ languages ・✦▭▭▭✧◦✦◦✧▭▭▭✦・
+**🤖 AI Interview Coach** - Local AI practice buddy  
+🧠 Mistral 7B locally | 40% faster | 5% hallucination rate  
+[→ see the code](https://github.com/123Alissaa/ai-coach)
 
-<table>
-<tr>
-<td align="center" width="96">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" />
-  <br>Python
-</td>
-<td align="center" width="96">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
-  <br>JavaScript
-</td>
-<td align="center" width="96">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
-  <br>TypeScript
-</td>
-<td align="center" width="96">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48" alt="Java" />
-  <br>Java
-</td>
-<td align="center" width="96">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++" />
-  <br>C++
-</td>
-<td align="center" width="96">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="SQL" />
-  <br>SQL
-</td>
-</tr>
-</table>
-
-### ・✦▭▭▭✧◦✦◦✧▭▭▭✦・ backend & frameworks ・✦▭▭▭✧◦✦◦✧▭▭▭✦・
-
-<table>
-<tr>
-<td align="center" width="96">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="48" height="48" alt="FastAPI" />
-  <br>FastAPI
-</td>
-<td align="center" width="96">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="48" height="48" alt="Flask" />
-  <br>Flask
-</td>
-<td align="center" width="96">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" />
-  <br>Node.js
-</td>
-<td align="center" width="96">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="48" height="48" alt="Express" />
-  <br>Express
-</td>
-<td align="center" width="96">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React" />
-  <br>React
-</td>
-<td align="center" width="96">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="48" height="48" alt="Next.js" />
-  <br>Next.js
-</td>
-</tr>
-</table>
-
-### ・✦▭▭▭✧◦✦◦✧▭▭▭✦・ databases & tools ・✦▭▭▭✧◦✦◦✧▭▭▭✦・
-
-<table>
-<tr>
-<td align="center" width="96">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL" />
-  <br>PostgreSQL
-</td>
-<td align="center" width="96">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" />
-  <br>MongoDB
-</td>
-<td align="center" width="96">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
-  <br>Docker
-</td>
-<td align="center" width="96">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" />
-  <br>Git
-</td>
-<td align="center" width="96">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" />
-  <br>Linux
-</td>
-<td align="center" width="96">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" width="48" height="48" alt="WebSocket" />
-  <br>WebSocket
-</td>
-</tr>
-</table>
-
-### ・✦▭▭▭✧◦✦◦✧▭▭▭✦・ ai & ml ・✦▭▭▭✧◦✦◦✧▭▭▭✦・
-
-<table>
-<tr>
-<td align="center" width="96">
-  <img src="https://www.gstatic.com/lamda/images/gemini_sparkle_v002_d4735304ff6292a690345.svg" width="48" height="48" alt="Gemini" />
-  <br>Gemini
-</td>
-<td align="center" width="96">
-  <img src="https://github.com/ollama/ollama/assets/3325447/0d0b44e2-8f4a-4e99-9b52-a5c1c741c8f7" width="48" height="48" alt="Ollama" />
-  <br>Ollama
-</td>
-<td align="center" width="96">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="48" height="48" alt="LLMs" />
-  <br>LLMs
-</td>
-</tr>
-</table>
-
-</div>
+**🛒 E-Commerce Platform** - Distributed microservices  
+💳 ACID-compliant | 68% faster checkout | 100+ concurrent users  
+[→ browse the repo](https://github.com/123Alissaa/ecommerce)
 
 ---
 
-## ✨ projects worth exploring
+### <img src="https://user-images.githubusercontent.com/74038190/216122003-d7296da8-55a2-4b2c-8e23-b362253dd5e6.png" width="25"/> GitHub Stats
 
-<details>
-<summary>💬 <b>collabpad</b> ─ real-time collaborative editor</summary>
-
-<br/>
-
-```
-┌─────────────────────────────────────────┐
-│  🎯 the mission                         │
-│  ever wondered how google docs lets     │
-│  everyone type at once? me too.         │
-│  so i built it for code.                │
-└─────────────────────────────────────────┘
-```
-
-**✨ what it does:**
-- ⚡ sub-50ms latency (i literally timed every keystroke)
-- 👥 25+ people coding simultaneously
-- 🎯 99.2% automatic conflict resolution
-- 📊 handles 3,500+ messages per minute
-- 💎 optimized queries 73% faster (45ms → 12ms)
-
-**🍵 the tea:** spent way too many late nights learning about websockets and race conditions. worth it though.
-
-**🛠️ tech stack:** `fastapi` `websockets` `postgresql` `next.js`
-
-**[→ check it out](https://github.com/123Alissaa/collabpad)**
-
-</details>
-
-<details>
-<summary>🤖 <b>ai interview coach</b> ─ your practice buddy</summary>
-
-<br/>
-
-```
-┌─────────────────────────────────────────┐
-│  🎯 the mission                         │
-│  practicing interviews alone is         │
-│  awkward. so i made an AI friend that   │
-│  runs locally and can't judge me.       │
-└─────────────────────────────────────────┘
-```
-
-**✨ what it does:**
-- 🧠 runs mistral 7b locally (no cloud, no judgment)
-- ⚡ 40% faster through async processing
-- 🎯 reduced hallucinations from 30% → 5%
-- 📈 real-time performance dashboard
-
-**🍵 the tea:** turns out getting AI to be accurate is like debugging but for robots. prompt engineering = new obsession unlocked.
-
-**🛠️ tech stack:** `python` `ollama` `streamlit` `plotly`
-
-**[→ see the code](https://github.com/123Alissaa/ai-coach)**
-
-</details>
-
-<details>
-<summary>🛒 <b>distributed e-commerce platform</b></summary>
-
-<br/>
-
-```
-┌─────────────────────────────────────────┐
-│  🎯 the mission                         │
-│  wanted to understand microservices     │
-│  and distributed systems. built a       │
-│  shopping platform where money          │
-│  doesn't disappear mysteriously.        │
-└─────────────────────────────────────────┘
-```
-
-**✨ what it does:**
-- 💳 acid-compliant transactions (no double charging!)
-- ⚡ 68% faster checkout (1.2s → 380ms)
-- 🏗️ handles 100+ concurrent users
-- ✅ 85% test coverage (i write tests, shocking i know)
-
-**🍵 the tea:** learned that preventing race conditions in payment systems is HARD. also learned to love testing.
-
-**🛠️ tech stack:** `typescript` `node.js` `graphql` `postgresql`
-
-**[→ browse the repo](https://github.com/123Alissaa/ecommerce)**
-
-</details>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=123Alissaa&show_icons=true&theme=radical&hide_border=true"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=123Alissaa&theme=radical&hide_border=true"/>
 
 ---
 
-## 📊 the stats
+### <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="25"/> Let's Connect
 
-<div align="center">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alissaannjosy)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alissaannjosy@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF69B4?style=for-the-badge&logo=About.me&logoColor=white)](https://alissa-portfolio.lovable.app/)
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=123Alissaa&show_icons=true&theme=material-palenight&hide_border=true&bg_color=1a1b27&title_color=ffc0cb&icon_color=ffc0cb&text_color=c792ea&border_radius=15"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=123Alissaa&theme=material-palenight&hide_border=true&background=1a1b27&ring=ffc0cb&fire=ffc0cb&currStreakLabel=c792ea&border_radius=15"/>
+**🌸 Open to Summer 2026 Internships** - Let's build something amazing together!
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=123Alissaa&custom_title=coding%20activity%20✨&bg_color=1a1b27&color=c792ea&line=ffc0cb&point=ffc0cb&area=true&hide_border=true)
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=123Alissaa&layout=compact&theme=material-palenight&hide_border=true&bg_color=1a1b27&title_color=ffc0cb&text_color=c792ea&border_radius=15"/>
-
-</div>
-
----
-
-## 🏆 achievements unlocked
-
-<div align="center">
-
-```
-╔═══════════════════════════════════════════════════════════════════════════╗
-║  ⚡ query wizard        💎 optimization queen    🤖 ai tamer              ║
-║  73% faster            68% improvement          30% → 5% errors          ║
-║                                                                           ║
-║  🎯 reliability pro    👥 community builder     ⏰ automation master     ║
-║  99.8% uptime          60 → 200 members         90% time saved           ║
-║                                                                           ║
-║  🐛 debug detective    👩‍🏫 teacher              ✨ performance enthusiast ║
-║  20% → 3% failures     40 students inspired     sub-50ms responses       ║
-╚═══════════════════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
----
-
-## 💌 let's connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alissaannjosy)
-[![Email](https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alissaannjosy@gmail.com)
-[![Portfolio](https://img.shields.io/badge/🌸_Portfolio-FF69B4?style=for-the-badge&logo=About.me&logoColor=white)](https://alissa-portfolio.lovable.app/)
-
-```
-╔═══════════════════════════════════════════════════════════════╗
-║                                                               ║
-║          🌸 open to summer 2026 internships 🌸                ║
-║                                                               ║
-║   i build backend systems with precision, optimize           ║
-║   databases obsessively, and genuinely enjoy the             ║
-║   art of debugging (yes, really).                            ║
-║                                                               ║
-║          let's create something amazing together.            ║
-║                                                               ║
-╚═══════════════════════════════════════════════════════════════╝
-```
-
-<br/>
-
-![visitors](https://komarev.com/ghpvc/?username=123Alissaa&color=FF69B4&style=for-the-badge&label=profile+views)
-
-</div>
-
----
-
-<div align="center">
-
-```
-   /\_/\           *it is a truth universally acknowledged*
-  ( ^.^ )          *that a software engineer in possession*
-   > ^ <           *of good skills must be in want of an internship*
-  /|   |\                                                   ✨
- (_|   |_)
-```
-
-<sub>✨ this profile is updated regularly with new projects and achievements ✨</sub>
-
-</div>
-
----
-
-<div align="center">
-
-**⋆｡°✩ thanks for stopping by! ✩°｡⋆**
-
-```ascii
-    ∧,,,∧
-   ( ̳• · • ̳)
-   /    づ♡  have a great day!
-```
-
-</div>
+![visitors](https://komarev.com/ghpvc/?username=123Alissaa&color=FF69B4&style=for-the-badge)

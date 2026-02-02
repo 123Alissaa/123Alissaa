@@ -6,7 +6,7 @@
 
 </div>
 
-<img align='right' src='https://i.pinimg.com/originals/e4/ff/9d/e4ff9d48ef765db4c9a87302b83b2f22.gif' width='200'>
+<img align='right' src='https://github.com/user-attachments/assets/1b9c7f30-e10d-4539-ad4f-56e1c892813a' width='200'>
 
 **cs student @ usf** 🎓 | **tampa, fl** 🌴 | **gpa: 3.78/4.0** 💎 | **class of 2027** 🌸
 
@@ -22,7 +22,7 @@ i build backend systems, optimize databases, and debug at ungodly hours
 
 ### 💎 Tech Stack
 
-<img src='https://i.pinimg.com/originals/8d/59/3e/8d593ec08c5caa9db4097089753fsilon.gif' width='50'>
+<img src='https://github.com/user-attachments/assets/a603f9da-b4db-4a72-9469-48e75339294f' width='50'>
 
 </div>
 
@@ -42,7 +42,7 @@ i build backend systems, optimize databases, and debug at ungodly hours
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 <div align="center">
-<img src='https://i.pinimg.com/originals/8d/59/3e/8d593ec08c5caa9db4097089753f1son.gif' width='50'>
+<img src='https://github.com/user-attachments/assets/a603f9da-b4db-4a72-9469-48e75339294f' width='50'>
 </div>
 
 ---
@@ -97,12 +97,8 @@ apr 2025 - present
 
 ### 📊 GitHub Stats
 
-<img src='https://i.pinimg.com/originals/18/a4/94/18a494043d1c36fc839bc58c7c74d3b5.gif' width='60'>
-
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=123Alissaa&show_icons=true&theme=radical&hide_border=true"/>
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=123Alissaa&theme=radical&hide_border=true"/>
-
-<img src='https://i.pinimg.com/originals/18/a4/94/18a494043d1c36fc839bc58c7c74d3b5.gif' width='60'>
 
 </div>
 
@@ -112,7 +108,7 @@ apr 2025 - present
 
 ### 💌 Let's Connect
 
-<img src='https://i.pinimg.com/originals/f3/26/ec/f326ec217c1e0d4e66eb0b115ba9d0a6.gif' width='100'>
+<img src='https://github.com/user-attachments/assets/1b9c7f30-e10d-4539-ad4f-56e1c892813a' width='100'>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alissaannjosy)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alissaannjosy@gmail.com)
@@ -121,7 +117,5 @@ apr 2025 - present
 **🌸 Open to Summer 2026 Internships** - Let's build something amazing together!
 
 ![visitors](https://komarev.com/ghpvc/?username=123Alissaa&color=FF69B4&style=for-the-badge)
-
-<img src='https://i.pinimg.com/originals/0f/25/e4/0f25e4668c1c9a3c8c31d4ee81b5dba5.gif' width='100'>
 
 </div>

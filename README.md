@@ -41,9 +41,6 @@ i build backend systems, optimize databases, and debug at ungodly hours
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-<div align="center">
-<img src='https://github.com/user-attachments/assets/2f96ea58-2152-4bbb-9885-2f68e47cfd0d' width='50'>
-</div>
 
 ---
 
@@ -97,7 +94,6 @@ apr 2025 - present
 
 ### 💌 Let's Connect
 
-<img src='https://github.com/user-attachments/assets/014fc941-98be-4a2c-a294-248ba58f0f8d' width='100'>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alissaannjosy)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alissaannjosy@gmail.com)
@@ -107,6 +103,6 @@ apr 2025 - present
 
 ![visitors](https://komarev.com/ghpvc/?username=123Alissaa&color=FF69B4&style=for-the-badge)
 
-<img src='https://github.com/user-attachments/assets/f27769af-6964-4eaa-a4f4-5587f55225a7' width='50'>
+<img src='https://github.com/user-attachments/assets/014fc941-98be-4a2c-a294-248ba58f0f8d' width='100'>
 
 </div>

@@ -12,7 +12,7 @@
 
 i build backend systems, optimize databases, and debug at ungodly hours 
 
-**currently:** teaching robots to understand recipes 🤖 | leading 200+ students 👥 | seeking summer 2026 opportunities 
+**currently:** teaching robots to understand recipes 🤖 | leading 200+ students 👥 | seeking fall 2026 & new grad 2027 opportunities 
 
 <br clear="right"/>
 
@@ -99,7 +99,7 @@ apr 2025 - present
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alissaannjosy@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF69B4?style=for-the-badge&logo=About.me&logoColor=white)](https://alissa-portfolio.lovable.app/)
 
-**🌸 Open to Summer 2026 Internships** - Let's build something amazing together!
+**🌸 Open to Fall 2026 Internships & 2027 New Grad opportunities** - Let's build something amazing together!
 
 ![visitors](https://komarev.com/ghpvc/?username=123Alissaa&color=FF69B4&style=for-the-badge)
 

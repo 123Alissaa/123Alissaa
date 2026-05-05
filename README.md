@@ -54,7 +54,7 @@ i build backend systems, optimize databases, and debug at ungodly hours
 <tr>
 <td width="33%" align="center">
 
-**🏛️ Backend Engineer**  
+**🏛️ AI Research Assistant**  
 *RARE Lab, USF*  
 aug 2025 - present
 

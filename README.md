@@ -58,9 +58,9 @@ i build backend systems, optimize databases, and debug at ungodly hours
 *Publix Technology, FL*  
 May 2026 - August 2026
 
-Replaced legacy systems
-Processed 10,000+ invoices
-2 SLA per invoice
+- Replaced legacy systems
+- Processed 10,000+ invoices
+- 2 SLA per invoice
 
 </td>
 <td width="25%" align="center">
@@ -69,9 +69,9 @@ Processed 10,000+ invoices
 *RARE Lab, USF*  
 aug 2025 - present
 
-🤖 building AI systems  
-📊 processing 200+ requests  
-✨ 99.8% uptime
+- building AI systems  
+- processing 200+ requests  
+- 99.8% uptime
 
 </td>
 <td width="25%" align="center">
@@ -80,9 +80,9 @@ aug 2025 - present
 *Undergraduate Studies, USF*  
 june 2024 - present
 
-🐍 python automation  
-⏰ 20% time saved  
-🎯 40% fewer tickets
+- python automation  
+- 20% time saved
+-  40% fewer tickets
 
 </td>
 <td width="25%" align="center">
@@ -91,9 +91,9 @@ june 2024 - present
 *Bridges International*  
 apr 2025 - present
 
-👥 leading 200+ members  
-⚡ 90% efficiency gain  
-📈 scaled from 60 to 200
+- leading 200+ members  
+- 90% efficiency gain  
+- scaled from 60 to 200
 
 </td>
 </tr>
@@ -110,7 +110,7 @@ apr 2025 - present
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alissaannjosy@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF69B4?style=for-the-badge&logo=About.me&logoColor=white)](https://alissa-portfolio.lovable.app/)
 
-**🌸 Open to Fall 2026 Internships & 2027 New Grad opportunities** - Let's build something amazing together!
+**🌸 Open to Spring 2027 Internships & New Grad opportunities** - Let's build something amazing together!
 
 ![visitors](https://komarev.com/ghpvc/?username=123Alissaa&color=FF69B4&style=for-the-badge)
 

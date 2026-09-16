@@ -12,7 +12,7 @@
 
 i build backend systems, optimize databases, and debug at ungodly hours 
 
-**currently:** teaching robots to understand recipes 🤖 | leading 200+ students 👥 | seeking fall 2026 & new grad 2027 opportunities 
+**currently:** teaching robots to understand recipes 🤖 | leading 200+ students 👥 | seeking spring 2027 & new grad 2027 opportunities 
 
 <br clear="right"/>
 
@@ -64,6 +64,14 @@ aug 2025 - present
 
 </td>
 <td width="33%" align="center">
+
+**📚 Software Engineer Intern**  
+*Publix Technology, FL*  
+May 2026 - August 2026
+
+Replaced legacy systems
+Processed 10,000+ invoices
+2 SLA per invoice
 
 **📚 Student Assistant**  
 *Undergraduate Studies, USF*  

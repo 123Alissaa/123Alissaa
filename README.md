@@ -52,7 +52,7 @@ i build backend systems, optimize databases, and debug at ungodly hours
 
 <table>
 <tr>
-<td width="33%" align="center">
+<td width="25%" align="center">
 
 **📚 Software Engineer Intern**  
 *Publix Technology, FL*  
@@ -63,7 +63,7 @@ Processed 10,000+ invoices
 2 SLA per invoice
 
 </td>
-<td width="33%" align="center">
+<td width="25%" align="center">
 
 **🏛️ AI Research Assistant**  
 *RARE Lab, USF*  
@@ -74,7 +74,7 @@ aug 2025 - present
 ✨ 99.8% uptime
 
 </td>
-<td width="33%" align="center">
+<td width="25%" align="center">
 
 **📚 Student Assistant**  
 *Undergraduate Studies, USF*  
@@ -85,7 +85,7 @@ june 2024 - present
 🎯 40% fewer tickets
 
 </td>
-<td width="33%" align="center">
+<td width="25%" align="center">
 
 **👑 Vice President**  
 *Bridges International*  

@@ -54,6 +54,17 @@ i build backend systems, optimize databases, and debug at ungodly hours
 <tr>
 <td width="33%" align="center">
 
+**📚 Software Engineer Intern**  
+*Publix Technology, FL*  
+May 2026 - August 2026
+
+Replaced legacy systems
+Processed 10,000+ invoices
+2 SLA per invoice
+
+</td>
+<td width="33%" align="center">
+
 **🏛️ AI Research Assistant**  
 *RARE Lab, USF*  
 aug 2025 - present
@@ -64,14 +75,6 @@ aug 2025 - present
 
 </td>
 <td width="33%" align="center">
-
-**📚 Software Engineer Intern**  
-*Publix Technology, FL*  
-May 2026 - August 2026
-
-Replaced legacy systems
-Processed 10,000+ invoices
-2 SLA per invoice
 
 **📚 Student Assistant**  
 *Undergraduate Studies, USF*  

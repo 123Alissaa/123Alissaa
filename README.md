@@ -2,7 +2,7 @@
 
 # hey, i'm alissa 🥂
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=22&duration=3000&pause=900&color=D4AF37&center=true&vCenter=true&width=760&lines=junior+cs+student+%40+usf+%E2%9C%A8;backend+systems+%2B+quant+finance%2C+dual+track+%F0%9F%92%8E;teaching+a+robot+to+cook+%F0%9F%A4%96;spring+2027+internships+%2B+new+grad+2027+%F0%9F%8C%B8" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=22&duration=3000&pause=900&color=D4AF37&center=true&vCenter=true&width=760&lines=senior+cs+student+%40+usf+%E2%9C%A8;backend+systems+%2B+data+pipelines+%F0%9F%92%8E;teaching+a+robot+to+cook+%F0%9F%A4%96;spring+2027+internships+%2B+new+grad+2027+%F0%9F%8C%B8" alt="Typing SVG" />
 
 </div>
 
@@ -10,9 +10,9 @@
 
 **Computer Science @ University of South Florida** 🎓 · Tampa, FL 🌴 · GPA 3.78 💎 · Class of 2027 🌸
 
-I build backend systems, work through data pipelines, and lately spend my spare cycles on quant finance — trying to keep the door open between software engineering and quantitative roles rather than pick one too early.
+I build backend systems and work through data pipelines, mostly around Python and C#/.NET.
 
-**Right now:** building an AI recipe system on a Misty robot at USF's RARE Lab 🤖 · leading 200+ members as VP of Bridges International 👥 · open to **Spring 2027 internships** and **New Grad 2027** roles 🌸
+**Right now:** building an AI recipe system on a Misty robot at USF's RARE Lab 🤖 · leading 200+ members as President of Bridges International 👥 · diving deep into quant finance on the side 📈 · open to **Spring 2027 internships** and **New Grad 2027** roles 🌸
 
 <br clear="right"/>
 
@@ -43,57 +43,21 @@ I build backend systems, work through data pipelines, and lately spend my spare 
 
 <div align="center">
 
-### 🛠️ things i've built
-
-</div>
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-**⚙️ Distributed Key-Value Store**
-*Go*
-
-A from-scratch KV store exploring replication and consistency trade-offs in distributed systems.
-
-[`repo →`](#)
-
-</td>
-<td width="33%" valign="top">
-
-**✍️ CollabPad**
-*Real-time collaborative editor*
-
-Multi-user document editing with conflict resolution and live sync.
-
-[`repo →`](#)
-
-</td>
-<td width="33%" valign="top">
-
-**📈 LLM Financial Data Analyzer**
-*Python + LLMs*
-
-Uses an LLM to parse and reason over financial data for faster analysis.
-
-[`repo →`](#)
-
-</td>
-</tr>
-</table>
-
-<div align="center"><sub>swap the <code>#</code> links above for your actual repo URLs</sub></div>
-
----
-
-<div align="center">
-
 ### 🎭 current roles
 
 </div>
 
 <table>
 <tr>
+<td width="25%" align="center" valign="top">
+
+**💻 Software Engineering Intern**
+*Publix Technology*
+May 2026 – Aug 2026
+
+Built a Kafka-based C#/.NET pipeline and APIs, processing 10,000+ invoices
+
+</td>
 <td width="25%" align="center" valign="top">
 
 **🏛️ AI Research Assistant**
@@ -114,38 +78,15 @@ Automating advisor workflows with Python + PostgreSQL
 </td>
 <td width="25%" align="center" valign="top">
 
-**👑 Vice President**
+**👑 President**
 *Bridges International*
 Apr 2025 – Present
 
 Leading 200+ members, scaled the org from ~60 to 200
 
 </td>
-<td width="25%" align="center" valign="top">
-
-**💻 Software Engineering Intern**
-*Publix Technology*
-May 2026 – Aug 2026
-
-Built a Kafka-based C#/.NET pipeline and APIs, processing 10,000+ invoices
-
-</td>
 </tr>
 </table>
-
----
-
-<div align="center">
-
-### 📊 quant curiosity
-
-</div>
-
-<div align="center">
-
-Alongside the software engineering side, I self-study quantitative finance — Black-Scholes and Heston option pricing, Monte Carlo methods, and efficient frontier / portfolio optimization — and stay connected to the space through organizations like STA Florida.
-
-</div>
 
 ---
 

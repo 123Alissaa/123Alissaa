@@ -8,7 +8,7 @@
 
 <img align="right" src="https://github.com/user-attachments/assets/1b9c7f30-e10d-4539-ad4f-56e1c892813a" width="200">
 
-**Computer Science @ University of South Florida** 🎓 · Tampa, FL 🌴 · GPA 3.78 💎 · Class of 2027 🌸
+**Computer Science @ University of South Florida** 🎓 · Tampa, FL 🌴 · GPA 3.78 💎 · Class of 2027
 
 I build backend systems and work through data pipelines, mostly around Python and C#/.NET.
 

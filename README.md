@@ -2,8 +2,6 @@
 
 # Hey there, this is Alissa ✨
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=22&duration=3000&pause=900&color=D4AF37&center=true&vCenter=true&width=760&lines=senior+cs+student+%40+usf+%E2%9C%A8;backend+systems+%2B+data+pipelines+%F0%9F%92%8E;teaching+a+robot+to+cook+%F0%9F%A4%96;spring+2027+internships+%2B+new+grad+2027+%F0%9F%8C%B8" alt="Typing SVG" />
-
 </div>
 
 <img align="right" src="https://github.com/user-attachments/assets/1b9c7f30-e10d-4539-ad4f-56e1c892813a" width="200">
